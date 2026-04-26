@@ -1,3 +1,3 @@
 # Streamlit_Project
 
-visit on: https://gkprogrammer.streamlit.app/
+visit on: https://globalinflationiu472.streamlit.app/
